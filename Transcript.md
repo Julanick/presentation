@@ -69,10 +69,28 @@ A markup language is a set of markup tags
 HTML documents are described by HTML tags
 Each HTML tag describes different document content
 
+HTML5
+The <header> and <footer> elements can be used for:
+The main header or footer  
+that appears at the top or bottom of every page on the site. A header or footer for an  
+individual <article> or <section> within the page.
+
+The <nav> element is used to contain the major navigational blocks on the site such as the primary site navigation.
+
+The <section> element groups related content together, and typically each section would have its own heading.
+
+CSS
 CSS stands for Cascading Style Sheets
 CSS describes how HTML elements are to be displayed on screen or on a web page.
 CSS is a style language that defines layout of HTML documents. For example, CSS covers fonts, colours, margins, lines, height, width, background images and many other things.
 CSS files can help define font, size, colour, spacing, border and location of HTML information on a web page, and can also be used to create a continuous look throughout multiple pages of a website
+
+Why css?
+Saves Your Time
+Saves Your Visitors Time(less loading time)
+Gives You Design Flexibility
+Easier to maintain and update
+Multiple Device Compatibility
 
 
 
