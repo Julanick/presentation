@@ -72,3 +72,9 @@
      height: 450px;
      width: 1380px;
  }
+
+ .cent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
